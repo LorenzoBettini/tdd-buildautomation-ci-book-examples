@@ -1,4 +1,9 @@
-# tdd-buildautomation-ci-book-examples
+# Test-Driven Development, Build Automation, Continuous Integration (with Java, Eclipse and friends)
+
+This repository contains the links to the single repositories for the examples of the book
+
+[Test-Driven Development, Build Automation, Continuous Integration (with Java, Eclipse and friends)](https://leanpub.com/tdd-buildautomation-ci)
+by _Lorenzo Bettini_.
 
 - Chapter JUnit
   - [junit-bank-example](https://github.com/LorenzoBettini/junit-bank-example)
