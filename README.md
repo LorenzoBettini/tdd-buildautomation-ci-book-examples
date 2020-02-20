@@ -38,6 +38,7 @@ by _Lorenzo Bettini_.
   - [it-docker-mongo-example](https://github.com/LorenzoBettini/it-docker-mongo-example)
 - Chapter UI tests
   - [ui-docker-mongo-example](https://github.com/LorenzoBettini/ui-docker-mongo-example)
+  - [assertj-swing-experiments](https://github.com/LorenzoBettini/assertj-swing-experiments)
 - Chapter End-to-end tests
   - [app-ui-docker-mongo-example](https://github.com/LorenzoBettini/app-ui-docker-mongo-example)
 - Chapter Code Quality
