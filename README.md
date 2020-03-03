@@ -13,6 +13,7 @@ by _Lorenzo Bettini_.
   - [tdd-factorial-example](https://github.com/LorenzoBettini/tdd-factorial-example)
   - [tdd-factorial-alternative-example](https://github.com/LorenzoBettini/tdd-factorial-alternative-example)
 - Chapter Code Coverage
+  - [factorial-codecoverage-example](https://github.com/LorenzoBettini/factorial-codecoverage-example)
   - [codecoverage-example](https://github.com/LorenzoBettini/codecoverage-example)
 - Chapter Mutation Testing
   - [mutation-testing-initial-example](https://github.com/LorenzoBettini/mutation-testing-initial-example)
