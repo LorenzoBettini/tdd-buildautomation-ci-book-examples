@@ -13,6 +13,7 @@ by _Lorenzo Bettini_.
   - [tdd-string-example](https://github.com/LorenzoBettini/tdd-string-example)
   - [tdd-factorial-example](https://github.com/LorenzoBettini/tdd-factorial-example)
   - [tdd-factorial-alternative-example](https://github.com/LorenzoBettini/tdd-factorial-alternative-example)
+  - [tdd-jupiter-example](https://github.com/LorenzoBettini/tdd-jupiter-example)
 - Chapter Code Coverage
   - [factorial-codecoverage-example](https://github.com/LorenzoBettini/factorial-codecoverage-example)
   - [codecoverage-example](https://github.com/LorenzoBettini/codecoverage-example)
