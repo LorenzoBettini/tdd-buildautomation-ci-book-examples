@@ -31,7 +31,7 @@ by _Lorenzo Bettini_.
 - Chapter Git
   - [java-examples](https://github.com/LorenzoBettini/java-examples)
 - Chapter Continuous Integration
-  - [github-travis-coveralls-example](https://github.com/LorenzoBettini/github-travis-coveralls-example)
+  - [github-ci-example](https://github.com/LorenzoBettini/github-ci-example)
 - Chapter Docker
   - [docker-java-example](https://github.com/LorenzoBettini/docker-java-example)
   - [docker-compose-java-example](https://github.com/LorenzoBettini/docker-compose-java-example)
