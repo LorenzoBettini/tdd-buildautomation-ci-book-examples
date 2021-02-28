@@ -8,6 +8,7 @@ by _Lorenzo Bettini_.
 - Chapter JUnit
   - [junit-bank-example](https://github.com/LorenzoBettini/junit-bank-example)
   - [assertj-log4j-bank-example](https://github.com/LorenzoBettini/assertj-log4j-bank-example)
+  - [jupiter-bank-example](https://github.com/LorenzoBettini/jupiter-bank-example)
 - Chapter TDD
   - [tdd-string-example](https://github.com/LorenzoBettini/tdd-string-example)
   - [tdd-factorial-example](https://github.com/LorenzoBettini/tdd-factorial-example)
