@@ -28,6 +28,7 @@ by _Lorenzo Bettini_.
   - [maven-multimodule-aggregator-example](https://github.com/LorenzoBettini/maven-multimodule-aggregator-example)
   - [maven-bank-multimodule-example](https://github.com/LorenzoBettini/maven-bank-multimodule-example)
   - [maven-java8-app-example](https://github.com/LorenzoBettini/maven-java8-app-example)
+  - [maven-bank-example-jupiter](https://github.com/LorenzoBettini/maven-bank-example-jupiter)
 - Chapter Mocking
   - [mockito-example](https://github.com/LorenzoBettini/mockito-example)
 - Chapter Git
